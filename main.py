@@ -3,7 +3,7 @@ import turtle
 import time
 # imports
 # parameters
-height = 2
+height = 1
 width = 1
 x = 1
 turtle.bgcolor("grey")
